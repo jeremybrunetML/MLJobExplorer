@@ -42,9 +42,9 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 ### Screenshots
 
-![jobs dhf](https://github.com/jeremybrunetML/MLJobExplorer/images/searchDHF.png)
-![jobs legacy](https://github.com/jeremybrunetML/MLJobExplorer/images/searchLegacy.png)
-![jobs legacy error](https://github.com/jeremybrunetML/MLJobExplorer/images/searchLegacy2.png)
-![job detail](https://github.com/jeremybrunetML/MLJobExplorer/images/jobDetail1.png)
-![job detail](https://github.com/jeremybrunetML/MLJobExplorer/images/jobDetail2.png)
-![stats](https://github.com/jeremybrunetML/MLJobExplorer/images/stats.png)
+![jobs dhf](https://github.com/jeremybrunetML/MLJobExplorer/blob/master/images/searchDHF.png)
+![jobs legacy](https://github.com/jeremybrunetML/MLJobExplorer/blob/master/images/searchLegacy.png)
+![jobs legacy error](https://github.com/jeremybrunetML/MLJobExplorer/blob/master/images/searchLegacy2.png)
+![job detail](https://github.com/jeremybrunetML/MLJobExplorer/blob/master/images/jobDetail1.png)
+![job detail](https://github.com/jeremybrunetML/MLJobExplorer/blob/master/images/jobDetail2.png)
+![stats](https://github.com/jeremybrunetML/MLJobExplorer/blob/master/images/stats.png)
